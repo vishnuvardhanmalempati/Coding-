@@ -1,0 +1,1 @@
+print("monu,vijayawada,age=20")
